@@ -8,9 +8,10 @@ Stack using
 - ExpressJS
 - Morgan
 - Winston
-  Development Tools
-  - @Babel
-  - Mocha + Chai + Sinon
+
+Development Tools
+- @babel/*
+- Mocha + Chai + Sinon
 
 ## Development
 
@@ -41,3 +42,9 @@ npm run test
 ```
 
 Unit test using mocha and mochawesome report, it been configured to run with ES6
+
+## Limitations
+Because the time limit code may not in clean state and unit test is just ideal how we introduce in project, not coverage all the code.
+
+I personally think better to use Typescript than ES6, But happy to discuss on this topic.
+
