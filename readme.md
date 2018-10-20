@@ -35,7 +35,7 @@ the express server will be hot reloading on port 5000, change port using envirom
 npm start
 ```
 
-## test
+## Test
 
 ```
 npm run test
